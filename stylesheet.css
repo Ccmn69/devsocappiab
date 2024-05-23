@@ -2,3 +2,11 @@ body {
     font-family: Arial;
     margin: 0;
 }
+
+p {
+    font-size: small;
+}
+
+ul {
+    font-size: small;
+}
